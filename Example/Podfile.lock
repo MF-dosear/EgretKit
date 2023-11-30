@@ -1,0 +1,18 @@
+PODS:
+  - EgretKit (1.0.0):
+    - EgretKit/Egret (= 1.0.0)
+  - EgretKit/Egret (1.0.0)
+
+DEPENDENCIES:
+  - EgretKit (from `../`)
+
+EXTERNAL SOURCES:
+  EgretKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EgretKit: 73ed82a1f3a0b9b697dafab7dbadc393e826ddda
+
+PODFILE CHECKSUM: 0447cae6b648661d7c235cc608da8a6eeeffd944
+
+COCOAPODS: 1.14.3
